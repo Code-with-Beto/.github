@@ -13,6 +13,10 @@ We're building high-quality templates, tools, and educational content to help de
 ### 📚 Learn with us:
 Check out our courses, YouTube tutorials, and community at [codewithbeto.dev](https://codewithbeto.dev)
 
+### 🔐 Access to private repositories:
+If you're subscribed to any of our premium courses, you’ll get access to the corresponding GitHub repos.  
+Not enrolled but still want to be part of the organization? Email us at **beto@codewithbeto.dev**.
+
 ### 🛠 How to contribute:
 Right now most repos are tied to paid templates. For open source tools, feel free to:
 - Open issues
