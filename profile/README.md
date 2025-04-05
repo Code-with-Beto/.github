@@ -1,12 +1,27 @@
 ## Hi there 👋
 
-<!--
+Welcome to Code with Beto!
 
-**Here are some ideas to get you started:**
+We're building high-quality templates, tools, and educational content to help developers ship faster, learn smarter, and level up their careers.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🚀 What we offer:
+- Premium React Native templates & boilerplates
+- Real-world project examples and tools
+- Developer-friendly documentation
+- Courses and content designed to teach by doing
+
+### 📚 Learn with us:
+Check out our courses, YouTube tutorials, and community at [codewithbeto.dev](https://codewithbeto.dev)
+
+### 🛠 How to contribute:
+Right now most repos are tied to paid templates. For open source tools, feel free to:
+- Open issues
+- Submit pull requests
+- Share feedback
+
+### 🙋‍♂️ About Beto:
+I'm Beto, a Developer Success Engineer at Expo, content creator, and indie founder passionate about teaching devs through practical code.
+
+---
+
+Let’s build something awesome!
